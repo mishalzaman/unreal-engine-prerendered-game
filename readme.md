@@ -4,8 +4,9 @@
 1. Create level
 2. Add cameras and keep note of the following properties for each camera. It's recommended to use whole numbers for location and rotation.
    1. FOV
-   2. Location
-   3. Rotation
+   2. Screen ratio
+   3. Location
+   4. Rotation
 3. Add a cone mesh to the exact same location and rotation of each camera
 4. Export as FBX
 
